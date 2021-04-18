@@ -15,7 +15,7 @@
   \**********************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval("__webpack_require__(/*! ./style.scss */ \"./src/style.scss\");\n\n__webpack_require__(/*! ./script.js */ \"./src/script.js\");\n\n__webpack_require__(/*! ./assets/img/avatar.png */ \"./src/assets/img/avatar.png\");\n\n__webpack_require__(/*! ./assets/img/Combined Shape.svg */ \"./src/assets/img/Combined Shape.svg\");\n\n__webpack_require__(/*! ./assets/img/edit icon.svg */ \"./src/assets/img/edit icon.svg\");\n\n__webpack_require__(/*! ./assets/img/logo.svg */ \"./src/assets/img/logo.svg\");\n\n__webpack_require__(/*! ./assets/img/medium.svg */ \"./src/assets/img/medium.svg\");\n\n__webpack_require__(/*! ./assets/img/notifications.svg */ \"./src/assets/img/notifications.svg\");\n\n__webpack_require__(/*! ./assets/img/Path 2.svg */ \"./src/assets/img/Path 2.svg\");\n\n__webpack_require__(/*! ./assets/img/share recap.svg */ \"./src/assets/img/share recap.svg\");\n\n__webpack_require__(/*! ./assets/img/user.png */ \"./src/assets/img/user.png\");\n\n__webpack_require__(/*! ./assets/img/x-mark.svg */ \"./src/assets/img/x-mark.svg\");\n\n__webpack_require__(/*! ./assets/img/edit-button.svg */ \"./src/assets/img/edit-button.svg\");\n\n__webpack_require__(/*! ./assets/img/play.svg */ \"./src/assets/img/play.svg\");\n\n__webpack_require__(/*! ./assets/img/heart.svg */ \"./src/assets/img/heart.svg\");\n\n__webpack_require__(/*! ./assets/img/link.svg */ \"./src/assets/img/link.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/index.js?");
+eval("__webpack_require__(/*! ./style.scss */ \"./src/style.scss\");\n\n__webpack_require__(/*! ./script.js */ \"./src/script.js\");\n\n__webpack_require__(/*! ./assets/img/avatar.png */ \"./src/assets/img/avatar.png\");\n\n__webpack_require__(/*! ./assets/img/plus.svg */ \"./src/assets/img/plus.svg\");\n\n__webpack_require__(/*! ./assets/img/edit-icon.svg */ \"./src/assets/img/edit-icon.svg\");\n\n__webpack_require__(/*! ./assets/img/logo.svg */ \"./src/assets/img/logo.svg\");\n\n__webpack_require__(/*! ./assets/img/medium.svg */ \"./src/assets/img/medium.svg\");\n\n__webpack_require__(/*! ./assets/img/notifications.svg */ \"./src/assets/img/notifications.svg\");\n\n__webpack_require__(/*! ./assets/img/Path2.svg */ \"./src/assets/img/Path2.svg\");\n\n__webpack_require__(/*! ./assets/img/share-recap.svg */ \"./src/assets/img/share-recap.svg\");\n\n__webpack_require__(/*! ./assets/img/user.png */ \"./src/assets/img/user.png\");\n\n__webpack_require__(/*! ./assets/img/x-mark.svg */ \"./src/assets/img/x-mark.svg\");\n\n__webpack_require__(/*! ./assets/img/edit-button.svg */ \"./src/assets/img/edit-button.svg\");\n\n__webpack_require__(/*! ./assets/img/play.svg */ \"./src/assets/img/play.svg\");\n\n__webpack_require__(/*! ./assets/img/heart.svg */ \"./src/assets/img/heart.svg\");\n\n__webpack_require__(/*! ./assets/img/link.svg */ \"./src/assets/img/link.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/index.js?");
 
 /***/ }),
 
@@ -29,25 +29,14 @@ eval("document.getElementById('selector__option').addEventListener('click', func
 
 /***/ }),
 
-/***/ "./src/assets/img/Combined Shape.svg":
-/*!*******************************************!*\
-  !*** ./src/assets/img/Combined Shape.svg ***!
-  \*******************************************/
+/***/ "./src/assets/img/Path2.svg":
+/*!**********************************!*\
+  !*** ./src/assets/img/Path2.svg ***!
+  \**********************************/
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/img/Combined Shape.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/assets/img/Combined_Shape.svg?");
-
-/***/ }),
-
-/***/ "./src/assets/img/Path 2.svg":
-/*!***********************************!*\
-  !*** ./src/assets/img/Path 2.svg ***!
-  \***********************************/
-/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/img/Path 2.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/assets/img/Path_2.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/img/Path2.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/assets/img/Path2.svg?");
 
 /***/ }),
 
@@ -62,17 +51,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
-/***/ "./src/assets/img/edit icon.svg":
-/*!**************************************!*\
-  !*** ./src/assets/img/edit icon.svg ***!
-  \**************************************/
-/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/img/edit icon.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/assets/img/edit_icon.svg?");
-
-/***/ }),
-
 /***/ "./src/assets/img/edit-button.svg":
 /*!****************************************!*\
   !*** ./src/assets/img/edit-button.svg ***!
@@ -81,6 +59,17 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/img/edit-button.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/assets/img/edit-button.svg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/edit-icon.svg":
+/*!**************************************!*\
+  !*** ./src/assets/img/edit-icon.svg ***!
+  \**************************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/img/edit-icon.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/assets/img/edit-icon.svg?");
 
 /***/ }),
 
@@ -150,14 +139,25 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
-/***/ "./src/assets/img/share recap.svg":
+/***/ "./src/assets/img/plus.svg":
+/*!*********************************!*\
+  !*** ./src/assets/img/plus.svg ***!
+  \*********************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/img/plus.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/assets/img/plus.svg?");
+
+/***/ }),
+
+/***/ "./src/assets/img/share-recap.svg":
 /*!****************************************!*\
-  !*** ./src/assets/img/share recap.svg ***!
+  !*** ./src/assets/img/share-recap.svg ***!
   \****************************************/
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/img/share recap.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/assets/img/share_recap.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/img/share-recap.svg\");\n\n//# sourceURL=webpack://webpacktemplateconfig/./src/assets/img/share-recap.svg?");
 
 /***/ }),
 
