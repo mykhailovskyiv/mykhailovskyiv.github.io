@@ -208,6 +208,7 @@ main {
         display: flex;
         padding: 0px 20px 0px 20px;
         transition-duration: .5s;
+        align-items: center;
         &:hover {
             background-color:#ECF1F8; ;
             transition-duration: .5s;
@@ -215,6 +216,7 @@ main {
     }
     &__icon {
         width: 18px;
+        height: 18px;
     }
     &__title {
         padding: 8px;
