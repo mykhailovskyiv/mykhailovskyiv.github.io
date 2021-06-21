@@ -138,6 +138,11 @@ p, a, span, h1, h2, h3 {
   cursor: pointer;
 }
 
+.item:hover {
+  box-shadow: 20px 20px 35px rgba(0, 0, 0, 0.08);
+  transition-duration: 0.5s;
+}
+
 @media (max-width: 1450px) {
   .container {
     max-width: 80%;
