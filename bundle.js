@@ -9,6 +9,50 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
+/***/ "./src/assets/img/kettle.png":
+/*!***********************************!*\
+  !*** ./src/assets/img/kettle.png ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"src/assets/img/kettle.png\");\n\n//# sourceURL=webpack://config/./src/assets/img/kettle.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/kettle2.png":
+/*!************************************!*\
+  !*** ./src/assets/img/kettle2.png ***!
+  \************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"src/assets/img/kettle2.png\");\n\n//# sourceURL=webpack://config/./src/assets/img/kettle2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/knifes.png":
+/*!***********************************!*\
+  !*** ./src/assets/img/knifes.png ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"src/assets/img/knifes.png\");\n\n//# sourceURL=webpack://config/./src/assets/img/knifes.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/towle.png":
+/*!**********************************!*\
+  !*** ./src/assets/img/towle.png ***!
+  \**********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"src/assets/img/towle.png\");\n\n//# sourceURL=webpack://config/./src/assets/img/towle.png?");
+
+/***/ }),
+
 /***/ "./src/style.scss":
 /*!************************!*\
   !*** ./src/style.scss ***!
@@ -26,7 +70,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
   \**********************/
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("__webpack_require__(/*! ./style.scss */ \"./src/style.scss\")\r\n\n\n//# sourceURL=webpack://config/./src/index.js?");
+eval("__webpack_require__(/*! ./style.scss */ \"./src/style.scss\")\r\n__webpack_require__(/*! ../../src/assets/img/kettle.png */ \"./src/assets/img/kettle.png\")\r\n__webpack_require__(/*! ../../src/assets/img/kettle2.png */ \"./src/assets/img/kettle2.png\")\r\n__webpack_require__(/*! ../../src/assets/img/knifes.png */ \"./src/assets/img/knifes.png\")\r\n__webpack_require__(/*! ../../src/assets/img/towle.png */ \"./src/assets/img/towle.png\")\n\n//# sourceURL=webpack://config/./src/index.js?");
 
 /***/ })
 
@@ -57,6 +101,23 @@ eval("__webpack_require__(/*! ./style.scss */ \"./src/style.scss\")\r\n\n\n//# s
 /******/ 	}
 /******/ 	
 /************************************************************************/
+/******/ 	/* webpack/runtime/define property getters */
+/******/ 	(() => {
+/******/ 		// define getter functions for harmony exports
+/******/ 		__webpack_require__.d = (exports, definition) => {
+/******/ 			for(var key in definition) {
+/******/ 				if(__webpack_require__.o(definition, key) && !__webpack_require__.o(exports, key)) {
+/******/ 					Object.defineProperty(exports, key, { enumerable: true, get: definition[key] });
+/******/ 				}
+/******/ 			}
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/hasOwnProperty shorthand */
+/******/ 	(() => {
+/******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/make namespace object */
 /******/ 	(() => {
 /******/ 		// define __esModule on exports
@@ -66,6 +127,11 @@ eval("__webpack_require__(/*! ./style.scss */ \"./src/style.scss\")\r\n\n\n//# s
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		__webpack_require__.p = "";
 /******/ 	})();
 /******/ 	
 /************************************************************************/
