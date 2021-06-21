@@ -91,6 +91,7 @@ p, a, span, h1, h2, h3 {
 .item__category {
   font-size: 16px;
   line-height: 150%;
+  font-weight: 600;
   text-transform: uppercase;
   color: #aeaeae;
   cursor: pointer;
@@ -98,7 +99,7 @@ p, a, span, h1, h2, h3 {
 .item__title {
   font-size: 16px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 600;
   text-decoration: underline;
   color: #2175cc;
   cursor: pointer;
@@ -113,6 +114,7 @@ p, a, span, h1, h2, h3 {
 .item .item-cart .item-price__old {
   font-size: 16px;
   line-height: 140%;
+  font-weight: 600;
   color: #aeaeae;
   text-decoration: line-through;
 }
